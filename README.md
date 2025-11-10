@@ -1,4 +1,4 @@
-# Scalable Data Systems — Programming Projects
+# DSC 204A: Scalable Data Systems
 
 **Portfolio of distributed data processing and parallel computing projects** demonstrating production-grade engineering with Ray, Modin, and collective communication algorithms.
 
