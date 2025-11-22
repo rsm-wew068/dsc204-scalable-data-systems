@@ -56,6 +56,23 @@ This repository showcases hands-on implementation of scalable data systems using
 
 ---
 
+### PA3 — Distributed Machine Learning Systems 🚀
+**Technologies**: Ray Train, Ray Tune, Modin, XGBoost, Tensor Parallelism  
+**Skills**: Distributed training, hyperparameter tuning, model parallelism (MoE), system optimization
+
+**Components**:
+- `pa3/Task1.ipynb` — Feature Engineering with Modin on Ray
+- `pa3/Task2.ipynb` — Distributed Training (XGBoost) & Hyperparameter Tuning (Ray Tune)
+- `pa3/Task3.ipynb` — Mixture of Experts (MoE) with Tensor Parallelism
+
+**Highlights**:
+- **Distributed Feature Engineering**: Scalable processing of Amazon Reviews dataset using Modin
+- **AutoML Pipeline**: End-to-end distributed training and hyperparameter optimization of XGBoost models
+- **Advanced Model Parallelism**: Implemented Tensor Parallel Mixture of Experts (MoE) achieving >2x speedup over sequential baseline
+- **System Design**: Custom sharded linear layers and expert routing logic using Ray actors
+
+---
+
 ## 📊 Technical Highlights
 
 ### Distributed Systems Patterns
